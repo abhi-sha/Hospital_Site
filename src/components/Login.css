@@ -1,0 +1,53 @@
+.j
+{
+
+padding: 50px 50px;
+height: 25rem;
+
+width: 30rem;
+margin: auto;
+margin-top: 4rem;
+box-sizing: border-box;
+border: 1px solid rgb(75, 72, 72);
+}
+.j p
+{
+    text-align: center;
+    background: #959595;
+    background: linear-gradient(to right, #bc1313 0%, #2559ca 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+.j button{
+    background-color: rgb(223, 163, 52);
+    width: 4rem;
+    height: 2rem;
+    margin-left: 42%;
+    margin-top: 1rem;
+}
+.j input{
+   width: 15rem;
+
+   margin-left: 20%;
+
+}
+label
+{
+display: block;
+margin-left: 44%;
+
+padding-bottom: 1rem;
+}
+.mail
+{
+   
+ 
+    padding-bottom: 1rem;
+}
+.password
+{
+   
+    padding-bottom: 1rem;
+}

@@ -1,0 +1,36 @@
+.Navbar-content
+{display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    height: 5rem;
+    border-bottom: 1px solid gray;
+}
+
+
+.Navbar-basic
+{
+    display:  flex;
+    flex-direction:  row;
+    align-items: center;
+    justify-content:flex-start;
+}
+
+
+.Navbar-content a
+{
+text-decoration: none;
+text-transform: capitalize;
+margin-left: 2rem;
+margin-right: 1rem;
+
+
+}
+.Navbar-content a:hover
+{
+    text-decoration: underline;
+    
+   
+}
+
+
+
